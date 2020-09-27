@@ -1,0 +1,2 @@
+D:\С++\YandexPract\C.findID\Debug\C.findID.exe
+D:\С++\YandexPract\C.findID\Debug\C.findID.pdb

@@ -1,0 +1,2 @@
+D:\С++\YandexPract\B.encodeNumber\B.encodeNumber\Debug\B.encodeNumber.exe
+D:\С++\YandexPract\B.encodeNumber\B.encodeNumber\Debug\B.encodeNumber.pdb

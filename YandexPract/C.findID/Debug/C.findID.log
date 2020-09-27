@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\С++\YandexPract\C.findID\Main.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\YandexPract\C.findID\Main.cpp(51,20): warning C4018: <: несоответствие типов со знаком и без знака
+  C.findID.vcxproj -> D:\С++\YandexPract\C.findID\Debug\C.findID.exe

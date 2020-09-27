@@ -1,0 +1,7 @@
+D:\С++\Proj1\Debug\Proj1.vcxprojAssemblyReference.cache
+D:\С++\Proj1\Debug\Proj1.exe
+D:\С++\Proj1\Debug\Proj1.pdb
+D:\С++\Proj1\Debug\Proj1.MyForm.resources
+D:\С++\Proj1\Debug\Proj1.vcxproj.GenerateResource.cache
+D:\С++\Proj1\Debug\Proj1.viewerForm.resources
+D:\С++\Proj1\Debug\Proj1.objectForm.resources

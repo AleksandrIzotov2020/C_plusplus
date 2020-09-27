@@ -1,0 +1,2 @@
+D:\С++\YandexPract\InternshipBackend\B.programmersAndPotatoes\Debug\B.programmersAndPotatoes.exe
+D:\С++\YandexPract\InternshipBackend\B.programmersAndPotatoes\Debug\B.programmersAndPotatoes.pdb

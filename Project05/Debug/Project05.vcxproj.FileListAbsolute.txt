@@ -1,0 +1,2 @@
+D:\С++\Project05\Debug\Project05.exe
+D:\С++\Project05\Debug\Project05.pdb

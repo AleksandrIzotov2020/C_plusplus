@@ -1,0 +1,2 @@
+D:\С++\YandexPract\Debug\YandexPract.exe
+D:\С++\YandexPract\Debug\YandexPract.pdb
